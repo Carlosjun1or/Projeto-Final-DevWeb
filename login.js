@@ -5,7 +5,7 @@ function logar() {
     alert("Preencha todos os campos");
   } else {
     if (
-      /*Nome@gmail.com*/ login == "carol@gmail.com" &&
+      /*Nome@gmail.com*/ login == "carolina@gmail.com" &&
       /*RA*/ (senha == "1291392522019" || "123")
     ) {
       alert("Sucesso");
@@ -21,3 +21,4 @@ function logar() {
     }
   }
 }
+
